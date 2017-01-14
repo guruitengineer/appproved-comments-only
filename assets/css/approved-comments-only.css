@@ -1,0 +1,16 @@
+.pending-count
+{
+	display:none !important;
+}
+#ab-awaiting-mod
+{
+	display: none !important;
+}
+.tablenav-pages:nth-of-type(2)
+{
+	display: none !important;
+}
+.tablenav-pages:nth-of-type(3)
+{
+	display: none !important;
+}
